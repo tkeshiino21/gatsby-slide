@@ -1,25 +1,39 @@
 # Gatsby Deck
 
-Create presentations using Gatsby & React.
+Gatsbyでスライドを作ったら、  
+死ぬほど捗った件  
+
+(→keyで次のスライド)
 
 ---
 
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+## なにこれ
+
+- Gatsbyならmd形式でスライドを作れる。
+- mdに慣れている人なら、パワポやkeynoteよりもサクサク作れる。
+- 社内向けのプレゼンは全部これでOKなクオリティで作れる（ご覧の通り）
 
 ---
 
-# 🤫
+## Gatsbyでスライドを作る？🤫
+
+> React用静的サイトジェネレイター、それがGatsby
+> スライド作成用のスターターを使うべし
+
+書き方：  
+
+1. ”---”でページを区切る。
+
+2. ”#”でh1、"##"でh2
+
+3. ">"で横にタイトルを挿入
+
+4. "-"でul(順番のないリスト)
+
+5. "1."でol(順番のあるリスト)
 
 ---
 
-## Slides are written in Markdown!
+## Lightning Fast!!!
 
-Here's the source of the first slide:
-
-    # Gatsby Deck
-
-    Create presentations using Gatsby & React.
+ちなみにこのスライドは5分くらいで作りました。
